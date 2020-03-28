@@ -1,2 +1,2 @@
-# www.sztubb.com
+# sztubb.com
 https://www.sztubb.com
